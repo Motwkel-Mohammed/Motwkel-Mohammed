@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Motwkel-Mohammed
+- 👋 Hi, I’m Motwkel-Mohammed
 - 👀 I’m interested in Android Development (Kotlin), RestApi(Node), DeepLearning(TensorFlow & Keras),..
 - 🌱 I’m currently learning DeepLearning Concepts (CNN + LSTM)
 - 💞️ I’m looking to collaborate on Developing Artificial intelligence mobile applications
