@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Motwkel-Mohammed
 - 👀 I’m interested in Android Development (Kotlin), RestApi(Node), DeepLearning(TensorFlow & Keras),..
-- 🌱 I’m currently learning DeepLearning Concepts (CNN + LSTM)
+- 🌱 I’m currently Working on Nodejs project
 - 💞️ I’m looking to collaborate on Developing Artificial intelligence mobile applications
 - 📫 You can reach me on LinkedIn by https://www.linkedin.com/in/motwkel-idris-1b73b3159/
 
